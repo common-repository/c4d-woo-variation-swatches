@@ -1,0 +1,636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: C4D Woo Variation Images\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-26 09:39+0000\n"
+"PO-Revision-Date: 2019-11-26 09:39+0000\n"
+"Last-Translator: admin <trung3388@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: c4d-woo-variation-swatches.php:80
+msgid "+"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:898
+msgid "1"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:899
+msgid "2"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:900
+msgid "3"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:901
+msgid "4"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:902
+msgid "5"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:903
+msgid "6"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:973
+msgid "Active Color"
+msgstr ""
+
+#: includes/metaboxes.php:129
+msgid "Add images to product gallery"
+msgstr ""
+
+#: includes/metaboxes.php:129
+msgid "Add product gallery images"
+msgstr ""
+
+#: includes/metaboxes.php:129
+msgid "Add to gallery"
+msgstr ""
+
+#. 1: dashboard link.
+#: includes/required.php:159
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:996
+msgid "Background Active Color"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:671 c4d-woo-variation-swatches.php:985
+msgid "Background Color"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:682
+msgid "Background Hover Color"
+msgstr ""
+
+#: includes/required.php:146
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/required.php:136
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/required.php:141
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: c4d-woo-variation-swatches.php:596 c4d-woo-variation-swatches.php:693
+#: c4d-woo-variation-swatches.php:1007
+msgid "Border"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:1021
+msgid "Border Active"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:610 c4d-woo-variation-swatches.php:707
+msgid "Border Hover"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:736 c4d-woo-variation-swatches.php:1050
+msgid "Border Rounded"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:458 c4d-woo-variation-swatches.php:517
+msgid "Box Color"
+msgstr ""
+
+#. Name of the plugin
+msgid "C4D Woo Variation Images"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"C4D WooCommerce Variation Swatches can show product variation items in "
+"images, colors, and label."
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:249
+msgid "Center"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:626
+msgid "Circle"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:79
+msgid "Clear"
+msgstr ""
+
+#. Author of the plugin
+msgid "Coffee4dev.com"
+msgstr ""
+
+#: includes/tab-panel.php:39 includes/metaboxes.php:145
+#: includes/metaboxes.php:170
+msgid "Color"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:206
+msgid "Color Defined"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:167
+msgid "Color Field Name"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:258
+msgid "Color/Image Box Dimensions"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:273
+msgid "Color/Image Box Margin"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:529
+msgid "Color/Image Button"
+msgstr ""
+
+#: includes/tab-panel.php:29
+msgid "Custom Attribute Setting"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:476
+msgid "Defaul Zoom Text"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:356
+msgid "Default Gallery"
+msgstr ""
+
+#: includes/metaboxes.php:129
+msgid "Delete"
+msgstr ""
+
+#: includes/metaboxes.php:129
+msgid "Delete image"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:554
+msgid "Desktop Dimensions"
+msgstr ""
+
+#: includes/required.php:160
+msgid "Dismiss this notice"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:494
+msgid "Display zoom image out of box"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:236
+msgid "Flip Thumbnail"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:81
+msgid "Fullscreen"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:837
+msgid "Gallery NAV"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:821
+msgid "Gallery Slider"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:846
+msgid "Grid"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:754 c4d-woo-variation-swatches.php:1068
+msgid "Height"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:400
+msgid "Hide Attribute"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:408
+msgid "Hide Clear Button"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:827 c4d-woo-variation-swatches.php:875
+msgid "Hide Left/Right Button"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:888
+msgid "Horizontal"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:659
+msgid "Hover Color"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://coffee4dev.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://coffee4dev.com/woocommerce-variation-swatches/"
+msgstr ""
+
+#: includes/tab-panel.php:40 includes/metaboxes.php:146
+#: includes/metaboxes.php:171
+msgid "Image"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:435
+msgid "Image Popup"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:954
+msgid "Input Typo"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:379
+msgid "Insert selector to find main gallery to replace with gallery by plugin."
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:168
+msgid "Insert the name of color attribute, so plugin can create color settings"
+msgstr ""
+
+#: includes/required.php:94
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/required.php:93
+msgid "Install Required Plugins"
+msgstr ""
+
+#. %s: plugin name.
+#: includes/required.php:96
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:853
+msgid "Item Width"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:248
+msgid "Left"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:216
+msgid "Listing Page"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:378
+msgid "Main Gallery Class"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:583 c4d-woo-variation-swatches.php:723
+#: c4d-woo-variation-swatches.php:1037
+msgid "Margin"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:568
+msgid "Mobile Dimensions"
+msgstr ""
+
+#: includes/tab-panel.php:59
+msgid "Multi Oders Settings"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:923 c4d-woo-variation-swatches.php:944
+msgid "Multi Order"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:885
+msgid "Nav Direction"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:865
+msgid "Nav Display"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:912
+msgid "Nav Item Margin"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:896
+msgid "Nav Item Show"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:843
+msgid "Nav Type"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:229 c4d-woo-variation-swatches.php:239
+#: c4d-woo-variation-swatches.php:360 c4d-woo-variation-swatches.php:371
+#: c4d-woo-variation-swatches.php:389 c4d-woo-variation-swatches.php:410
+#: c4d-woo-variation-swatches.php:438 c4d-woo-variation-swatches.php:485
+#: c4d-woo-variation-swatches.php:496 c4d-woo-variation-swatches.php:739
+#: c4d-woo-variation-swatches.php:830 c4d-woo-variation-swatches.php:868
+#: c4d-woo-variation-swatches.php:878 c4d-woo-variation-swatches.php:936
+#: c4d-woo-variation-swatches.php:1053
+msgid "No"
+msgstr ""
+
+#. 1: plugin name.
+#: includes/required.php:155
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:483
+msgid "Open image in fullscreen with pan & zoom effect"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:82
+msgid "Out Of Stock"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:397
+msgid "Out Stock Attribute"
+msgstr ""
+
+#: includes/required.php:162
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/tab-panel.php:18
+msgid "Please go to Attributes tab and add attribute first"
+msgstr ""
+
+#: includes/required.php:152
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:421
+msgid "Plugin Labels"
+msgstr ""
+
+#. 1: plugin name.
+#: includes/required.php:157
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:436
+msgid "Popup image when hover on variation"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:627
+msgid "Rectangle"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:418
+msgid "Responsive"
+msgstr ""
+
+#: includes/required.php:151
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:419
+msgid ""
+"Revert to dropdow select box of theme or keep image labels of plugin on "
+"small screen."
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:250
+msgid "Right"
+msgstr ""
+
+#: includes/metaboxes.php:143 includes/metaboxes.php:168
+msgid "Select"
+msgstr ""
+
+#: includes/tab-panel.php:63
+msgid "Select Attribute"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:398
+msgid "Set outstock status for attribute"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:624
+msgid "Shape"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:226
+msgid "Show On Listing Page"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:401
+msgid "Show Out Stock Label"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:368
+msgid "Show variation gallery when change variation"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:933
+msgid "Show Variation Image"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:346
+msgid "Single Page"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:845
+msgid "Slider"
+msgstr ""
+
+#: includes/required.php:99
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:386
+msgid "Sort Order"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:387
+msgid "Sort variations by alphabetic"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:246
+msgid "Swatch Algin"
+msgstr ""
+
+#: includes/metaboxes.php:44
+msgid "Swatch Images"
+msgstr ""
+
+#: includes/tab-panel.php:38 includes/metaboxes.php:144
+#: includes/metaboxes.php:169
+msgid "Text"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:634
+msgid "Text Button"
+msgstr ""
+
+#: includes/required.php:112
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this plugin: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this plugin: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/required.php:153
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/required.php:130
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/required.php:124
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: c4d-woo-variation-swatches.php:422
+msgid "Theme Select Box"
+msgstr ""
+
+#: includes/required.php:161
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/required.php:118
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/required.php:106
+#, php-format
+msgid "This plugin recommends the following plugin: %1$s."
+msgid_plural "This plugin recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/required.php:100
+#, php-format
+msgid "This plugin requires the following plugin: %1$s."
+msgid_plural "This plugin requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: c4d-woo-variation-swatches.php:286 c4d-woo-variation-swatches.php:762
+msgid "Tooltip"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:292 c4d-woo-variation-swatches.php:768
+msgid "Tooltip Background Color"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:315 c4d-woo-variation-swatches.php:791
+msgid "Tooltip Font Size"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:336 c4d-woo-variation-swatches.php:812
+msgid "Tooltip Padding"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:304 c4d-woo-variation-swatches.php:780
+msgid "Tooltip Text Color"
+msgstr ""
+
+#: includes/metaboxes.php:141 includes/metaboxes.php:164
+msgid "Type"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:535 c4d-woo-variation-swatches.php:640
+msgid "Typo"
+msgstr ""
+
+#. %s: plugin name.
+#: includes/required.php:98
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:357
+msgid "Using default gallery of plugin instead theme"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:367
+msgid "Variation Gallery"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:429
+msgid "Variation Popup"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:199 includes/tab.php:17
+msgid "Variation Swatches"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:887
+msgid "Vertical"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:746 c4d-woo-variation-swatches.php:1060
+msgid "Width"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:447
+msgid "Width/Height Popup"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:505
+msgid "Width/Height Zoom Out Box"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:228 c4d-woo-variation-swatches.php:238
+#: c4d-woo-variation-swatches.php:359 c4d-woo-variation-swatches.php:370
+#: c4d-woo-variation-swatches.php:390 c4d-woo-variation-swatches.php:411
+#: c4d-woo-variation-swatches.php:439 c4d-woo-variation-swatches.php:486
+#: c4d-woo-variation-swatches.php:497 c4d-woo-variation-swatches.php:738
+#: c4d-woo-variation-swatches.php:829 c4d-woo-variation-swatches.php:867
+#: c4d-woo-variation-swatches.php:877 c4d-woo-variation-swatches.php:935
+#: c4d-woo-variation-swatches.php:1052
+msgid "Yes"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:482
+msgid "Zoom & Pan"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:493
+msgid "Zoom Outbox"
+msgstr ""
+
+#: c4d-woo-variation-swatches.php:470
+msgid "Zoom Settings"
+msgstr ""
